@@ -1,2 +1,3 @@
 # Algoritmo-e-Estrutura-de-Dados-I
-Exercícios
+Exercícios propostos durante as aulas práticas da cadeira
+
